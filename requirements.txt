@@ -1,0 +1,16 @@
+alt-profanity-check
+pydantic[email]
+python-dotenv
+flask_limiter
+python-ulid
+langchain
+ratelimit
+flasgger
+pydantic
+hugchat
+certifi
+pymongo
+Flask
+nltk
+openai
+Flask-Limiter[redis]

@@ -1,0 +1,8 @@
+{
+	"response": {
+		"promptRes": {
+			"res": "RESPONSE_HERE"
+		},
+		"status": "success"
+	}
+}

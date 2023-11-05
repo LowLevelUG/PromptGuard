@@ -1,0 +1,4 @@
+orjson
+requests
+pydantic
+pydantic[email]
