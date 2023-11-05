@@ -10,10 +10,10 @@
 #### Request Body
 ```json
 {
-	"email"					: "user@random.mail",
-	"client_guidelines"		: "I am an employee of a company named ABC Ltd, which is an IT consulting company which works with some of the best companies. ABC Ltd is situated in Sri Lanka. I need to generate an email. I will provide you with a short description of the Email. The email should be easy to read and should not contain any negativity/profanity.",
+	"email"			: "user@random.mail",
+	"client_guidelines"	: "I am an employee of a company named ABC Ltd, which is an IT consulting company which works with some of the best companies. ABC Ltd is situated in Sri Lanka. I need to generate an email. I will provide you with a short description of the Email. The email should be easy to read and should not contain any negativity/profanity.",
 	"llm_endpoint"	        : "http://api.abcltd.com/LLM_Endpoint",
-	"llm_req_struct"	    : { "promptMightGoHere" : {"prompt" : "PROMPT_HERE" }},
+	"llm_req_struct"	: { "promptMightGoHere" : {"prompt" : "PROMPT_HERE" }},
 	"llm_resp_struct"       : { "responseOfLLM" : "RESPONSE_HERE" },
 	"token_limit"	        :  1000
 }
